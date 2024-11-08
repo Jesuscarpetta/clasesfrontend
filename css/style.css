@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+        box-sizing: border-box;
+}
+body{
+    padding: 20px #1CD1B0;
+
+}
+
+.caja1{
+    height: 38px;
+    background-color: #1CD1B0;
+}
+.Titulo{
+    background-color:#00669F ;
+}
+h1{
+    color: white;
+    }
